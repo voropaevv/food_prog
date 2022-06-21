@@ -1,0 +1,35 @@
+,name,price,category,preference,place_of_order,healthy
+0,Сырники со сметаной,175,breakfast,1,yandex_shop,0
+1,Омлет с курицей и томатами,205,breakfast,10,yandex_shop,1
+2,Блинчики с брынзой и зеленью,209,breakfast,1,yandex_shop,0
+3,Сырники с вареньем из роз и заварным кремом,245,breakfast,1,yandex_shop,0
+4,Шоколадные сырники с апельсиновым джемом и сметаной,235,breakfast,2,yandex_shop,0
+5,Скрэмбл с ветчиной из индейки и сыром чеддер,215,breakfast,8,yandex_shop,1
+6,Запеченые сырники из творога без сахара,155,breakfast,1,yandex_shop,0
+7,Сырники большая порция,235,breakfast,1,yandex_shop,0
+8,Блины с нутеллой,229,breakfast,1,yandex_shop,0
+9,Омлет запеченый с муссом из филе лосося,219,breakfast,1,yandex_shop,0
+10,Блины румяные,265,breakfast,1,yandex_shop,0
+11,Блины домашние Мираторг,179,breakfast,1,yandex_shop,0
+12,Мини сырники,189,breakfast,1,yandex_shop,0
+13,Оладушки домашние,149,breakfast,1,yandex_shop,0
+14,Овсяная каша на воде с фруктами и орехами,100,breakfast,20,own_cooking,1
+15,Блины с грушей и мягким сыром,158,breakfast,1,vkusvill,0
+16,"Блины с заварным кремом, мягким сыром и клубникой",154,breakfast,1,vkusvill,0
+17,Блины с курицей в сливочном соусе,158,breakfast,1,vkusvill,0
+18,Блины с черной смородиной и малиной,182,breakfast,1,vkusvill,0
+19,Блины с яблоком и манго,176,breakfast,1,vkusvill,0
+20,Блины с яблоком,146,breakfast,1,vkusvill,0
+21,Блины со скрэмблом и ветчиной,142,breakfast,1,vkusvill,0
+22,Запеканка творожная без сахара с манго и семенами чиа,178,breakfast,5,vkusvill,1
+23,Запеканка творожная с грушей,178,breakfast,1,vkusvill,0
+24,Запеканка творожная с клубникой без сахара,196,breakfast,5,vkusvill,1
+25,Запеканка творожная с клюквой,168,breakfast,1,vkusvill,0
+26,Запеканка творожная с черникой,178,breakfast,1,vkusvill,0
+27,Запеканка творожная с черной смородиной,210,breakfast,2,vkusvill,0
+28,Запеканка творожная с яблоком,168,breakfast,2,vkusvill,0
+29,Запеканка творожная,158,breakfast,1,vkusvill,0
+30,Каша пшеничная молочная с тыквой,128,breakfast,12,vkusvill,1
+31,"Омлет белковый с куриным филе, овощами и сыром",248,breakfast,10,vkusvill,1
+32,Рикотники апельсиновые,138,breakfast,1,vkusvill,0
+33,Рикотники шоколадные,138,breakfast,1,vkusvill,0
